@@ -19,7 +19,9 @@ This calculaor is built on Linux with **C++11** language.
 
 Use the command
 
+```bash
 g++ -std=c++11 -o solver solver.cpp
+```
 
 to compile.
 If you compiled successfully, you will see an executable file named **solver** in current directory.
