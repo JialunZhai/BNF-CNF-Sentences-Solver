@@ -9,6 +9,8 @@ Propositional logic, a.k.a. sentential logic and statement logic, deals with pro
 Natural language can be by Backus–Naur Form (BNF) grammer of sentences in propositional logic, which includes the proposition relations like 'not', 'and', 'or', 'implies' and 'if and only if'.
 However, BNF grammer of sentences are hard to solve. There is a grammer called Conjunctive Normal Form (CNF), which only cantains proposition relations like 'not', 'and' and 'or', is eaily to solved by many efficient algorithms such as Davis-Putnam-Logemann-Loveland (DPLL) algorithm. Fortunately, every sentence of propositional logic is logically equivalent to a conjunction of clauses. In other words, one can convert BNF grammer of sentences to CNF then applies efficient algorithms to solve.
 
+This project provides the tool for converting BNF grammer of sentences to CNF, and the tools for solving BNF or CNF.
+
 ## Enviroment
 
 This calculaor is built on Linux with **C++11** language.
