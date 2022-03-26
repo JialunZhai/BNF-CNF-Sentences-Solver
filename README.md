@@ -13,7 +13,7 @@ This project provides the tool for converting BNF grammer of sentences to CNF, a
 
 ## Enviroment
 
-This calculaor is built on Linux with **C++11** language.
+This calculaor is built on **Linux** with **C++11** language.
 
 ## Compilation
 
